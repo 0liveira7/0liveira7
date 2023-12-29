@@ -6,7 +6,7 @@
   </a>
 
 - 🔭 Sou estudante de tecnologia
-- 🌱 Estudando Segurança da Informação, Pentest, Python e Javascript
+- 🌱 Segurança da Informação, Pentest, Python, Javascript, Shell script
 - 📫 Contate-me no email: viniciusoliveira.m@outlook.com
 
 ##

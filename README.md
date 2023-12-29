@@ -1,5 +1,9 @@
 ### Olá! Eu sou o Vinicius de Oliveira 👋
 
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/fdrian/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 
 - 🔭 Sou estudante de tecnologia
 - 🌱 Estudando Segurança da Informação, Pentest, Python e Javascript
